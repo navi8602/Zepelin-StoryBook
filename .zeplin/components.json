@@ -1,5 +1,12 @@
 {
-  "projects": ["5df8ccd83d3ca7191e748a47"],
-  "styleguides": [],
-  "components": []
+  "projects": [],
+  "styleguides": [
+    "5bb75623a994f8686c5d6b9a"
+  ],
+  "components": [{
+    "path": "src/components/Button.jsx",
+    "zeplinNames": [
+      "Buttons/01_Accent/01_Yellow active"
+    ]
+  }]
 }
